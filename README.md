@@ -1,3 +1,6 @@
+Auther: Doha Tolba
+Project: PayRoll is my very first rails project.
+
 PayRoll
 =======
 
